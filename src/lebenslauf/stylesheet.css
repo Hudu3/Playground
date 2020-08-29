@@ -1,0 +1,16 @@
+.red,
+h1 {
+  color: red;
+}
+.green {
+  color: green;
+}
+.intro p:nth-child(3) {
+  color: blue;
+}
+
+.my-button {
+  border: 3px solid black;
+  width: max-content;
+  color: blue;
+}
